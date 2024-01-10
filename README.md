@@ -1,9 +1,17 @@
 <div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ichumbo/Blogy)
+  ![GitHub stars](https://img.shields.io/github/stars/ichumbo/Blogy?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ichumbo/Blogy?style=social)
 
+  <br />
+  <br />
 
-  <h2 align="center">Blogy - Blog Website</h2>
+  <h2 align="center">Blogy</h2>
 
-  Blogy é um site de blog totalmente responsivo, <br />Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
+  Blogy é um site para blogy no geral, ele é totalmente responsivo, para celulares, tablets e computadores, construído com HTML, CSS E JAVASCRIPT
+
+  <a href="https://ichumbo-blogy.netlify.app"><strong>➥ Site</strong></a>
 
 </div>
 
@@ -11,9 +19,8 @@
 
 ### Demo Screeshots
 
-![Blogy Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Demonstração do Blogy Desktop](./readme-images/img-blogy.png)
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Linkedin](https://www.linkedin.com/in/ichumbo/).
